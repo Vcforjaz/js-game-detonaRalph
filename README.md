@@ -8,6 +8,6 @@
 Aproveitando as férias da faculdade para apromirar o conhecimento e adquirir novas certificações.
 Este repositório é referente ao término do projeto de desenvolvimento de um jogo do Detona Ralph.
 
-►O jogo foi desenvolvido com base no conteúdo disponibilizado durante as vídeos aulas e materiais didático.
+►O jogo foi desenvolvido com base no conteúdo disponibilizado durante as vídeos aulas e materiais didático.\n
 ►Foi realizado um aprimoramento do código para deixar a vida do personagem funcional onde a cada erro era removido
 uma vida, e ao zerar as vidas, resulta em "Game over".
