@@ -12,3 +12,7 @@ Este repositório é referente ao término do projeto de desenvolvimento de um j
 
 ►Foi realizado um aprimoramento do código para deixar a vida do personagem funcional onde a cada erro era removido
 uma vida, e ao zerar as vidas, resulta em "Game over".
+
+<a href="https://vcforjaz.github.io/Meus-Projetos/ralph.html">Clique aqui para visualizar o projeto no navegador</a>
+
+![image](https://github.com/Vcforjaz/Meus-Projetos/blob/main/ralph.PNG?raw=true)
